@@ -21,32 +21,32 @@ while (continuar) {
     switch (pregunta) {
         case '1':
             alert('Ha agregado una "Camiseta" a su carrito');
-            alert('Prendas totales en el carrito: '+ numeroPrendas(prendasGuardadas) )
+            alert('Prendas totales en el carrito: ')
             continuar = false;
             break;
         case '2':
             alert('Ha agregado un "Pantalon" a su carrito')
-            alert('Prendas totales en el carrito: '+ (numeroPrendas + 1))
+            alert('Prendas totales en el carrito: ')
             continuar = false;
             break;
         case '3':
             alert('Ha agregado un "Gorro" a su carrito')
-            alert('Prendas totales en el carrito: '+ (numeroPrendas + 1))
+            alert('Prendas totales en el carrito: ')
             continuar = false;
             break;
         case '4':
             alert('Ha agregado una "Chaquta" a su carrito')
-            alert('Prendas totales en el carrito: '+ (numeroPrendas + 1))
+            alert('Prendas totales en el carrito: ')
             continuar = false;
             break;
         case '5':
             alert('Ha agregado uns "Zapatos" a su carrito')
-            alert('Prendas totales en el carrito: '+ (numeroPrendas + 1))
+            alert('Prendas totales en el carrito: ')
             continuar = false;
             break;
         case '6':
             alert('Ha agregado "Ropa Interior" a su carrito')
-            alert('Prendas totales en el carrito: '+ (numeroPrendas + 1))
+            alert('Prendas totales en el carrito: ')
             continuar = false;
             break;
         default:
